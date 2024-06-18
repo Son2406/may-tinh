@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body{
+	font-family: "roboto", "Gill Sans", sans-serif;font-size: 16px;color: #666666;margin: 0;
+}
+#list-pay {
+	list-style-type: none;
+}
+.top-bar{
+	height: 50px; line-height: 50px;
+}
+.top-bar a{
+	color: white
+}
+.top-bar a:hover{
+	color: #FFC113
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+	color: #056CB6
+}
+.navbar .navbar-nav .nav-item .nav-link{
+	padding: 10px 20px
+}
+main{
+	min-height: 600px
+}
+.gach-chan{
+	border-bottom: 2px solid #FFC113
+}
+footer .navbar .nav-item .nav-link:hover{
+	
+}
+.navbar .navbar-nav .nav-item .dropdown-menu{
+	background-color: #ebebeb;padding-top: 0; padding-bottom: 0
+}
+.navbar .navbar-nav .nav-item .dropdown-menu .dropdown-item{
+	color: rgb(0, 0, 0)
+}
+.navbar .navbar-nav .nav-item .dropdown-menu li{
+	border-bottom: 1px solid white
+}
+.navbar .navbar-nav .nav-item .dropdown-menu .dropdown-item:hover{
+	background-color: #FFC113
+}
+.bottom-bar{
+	height: 50px; line-height: 50px
+}
+.main-footer{
+	padding:30px;
+	background-color: #dfdfdf;
+}
+.social-list img{
+	width: 40px;
+	margin-left: 30px;
+}
+.footer-content ul{
+	list-style-type: none;	
+}
+.footer-content ul li a{
+	color:black;
+	text-decoration: none;
+}
+h2{
+	color:black;
+}
+#gia{
+	text-align:left;
+	color: red;
+	font-size: 20px;
+}
+.footer-title h4{
+	padding-left: 30px;
+}
+.container .row img{
+	width: 240px;
+	height: 240px;
+}
+.container .row .pt-3 a{
+	color: black;
+	text-decoration: none;
+}
+.container .row .pt-3{
+	text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
